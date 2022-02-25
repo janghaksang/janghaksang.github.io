@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to janghaksang's Pages
 
 You can use the [editor on GitHub](https://github.com/janghaksang/janghaksang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
